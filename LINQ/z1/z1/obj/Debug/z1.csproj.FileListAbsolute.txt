@@ -1,7 +1,0 @@
-C:\Users\user\source\repos\LINQ\z1\z1\bin\Debug\z1.exe.config
-C:\Users\user\source\repos\LINQ\z1\z1\bin\Debug\z1.exe
-C:\Users\user\source\repos\LINQ\z1\z1\bin\Debug\z1.pdb
-C:\Users\user\source\repos\LINQ\z1\z1\obj\Debug\z1.csprojAssemblyReference.cache
-C:\Users\user\source\repos\LINQ\z1\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\LINQ\z1\z1\obj\Debug\z1.exe
-C:\Users\user\source\repos\LINQ\z1\z1\obj\Debug\z1.pdb
