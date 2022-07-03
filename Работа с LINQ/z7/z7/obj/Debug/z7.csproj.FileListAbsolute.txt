@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Рабочий стол\z7\z7\bin\Debug\z7.exe.config
+C:\Users\user\OneDrive\Рабочий стол\z7\z7\bin\Debug\z7.exe
+C:\Users\user\OneDrive\Рабочий стол\z7\z7\bin\Debug\z7.pdb
+C:\Users\user\OneDrive\Рабочий стол\z7\z7\obj\Debug\z7.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\z7\z7\obj\Debug\z7.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\z7\z7\obj\Debug\z7.exe
+C:\Users\user\OneDrive\Рабочий стол\z7\z7\obj\Debug\z7.pdb
