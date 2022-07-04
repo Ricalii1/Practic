@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\bin\Debug\net5.0\z2.exe
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\bin\Debug\net5.0\z2.deps.json
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\bin\Debug\net5.0\z2.runtimeconfig.json
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\bin\Debug\net5.0\z2.runtimeconfig.dev.json
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\bin\Debug\net5.0\z2.dll
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\bin\Debug\net5.0\ref\z2.dll
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\bin\Debug\net5.0\z2.pdb
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\obj\Debug\net5.0\z2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\obj\Debug\net5.0\z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\obj\Debug\net5.0\z2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\obj\Debug\net5.0\z2.AssemblyInfo.cs
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\obj\Debug\net5.0\z2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\obj\Debug\net5.0\z2.dll
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\obj\Debug\net5.0\ref\z2.dll
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\obj\Debug\net5.0\z2.pdb
+C:\Users\user\Desktop\Практика1\Массивы и индексаторы\z2\obj\Debug\net5.0\z2.genruntimeconfig.cache
