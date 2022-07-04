@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kSI3XWqwK3Qr+0I/n5b1iHdLJrbzaOEvRJZvf6haRhEFwlYS1/ucuPufQ31d8Eh3hzjOoF5VBmR6MH35DNmQUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Практика1\\Классы и объекты\\z1\\z1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
