@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\z1MVP\bin\Debug\z1MVP.exe.config
+C:\Users\user\Desktop\z1MVP\bin\Debug\z1MVP.exe
+C:\Users\user\Desktop\z1MVP\bin\Debug\z1MVP.pdb
+C:\Users\user\Desktop\z1MVP\obj\Debug\z1MVP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\z1MVP\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\z1MVP\obj\Debug\App.g.cs
+C:\Users\user\Desktop\z1MVP\obj\Debug\z1MVP_MarkupCompile.cache
+C:\Users\user\Desktop\z1MVP\obj\Debug\z1MVP_MarkupCompile.lref
+C:\Users\user\Desktop\z1MVP\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\z1MVP\obj\Debug\z1MVP.g.resources
+C:\Users\user\Desktop\z1MVP\obj\Debug\z1MVP.Properties.Resources.resources
+C:\Users\user\Desktop\z1MVP\obj\Debug\z1MVP.csproj.GenerateResource.cache
+C:\Users\user\Desktop\z1MVP\obj\Debug\z1MVP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\z1MVP\obj\Debug\z1MVP.exe
+C:\Users\user\Desktop\z1MVP\obj\Debug\z1MVP.pdb

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\bin\Debug\z2MVP.exe.config
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\bin\Debug\z2MVP.exe
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\bin\Debug\z2MVP.pdb
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\obj\Debug\z2MVP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\obj\Debug\z2MVP_MarkupCompile.cache
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\obj\Debug\z2MVP_MarkupCompile.lref
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\obj\Debug\z2MVP.g.resources
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\obj\Debug\z2MVP.Properties.Resources.resources
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\obj\Debug\z2MVP.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\obj\Debug\z2MVP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\obj\Debug\z2MVP.exe
+C:\Users\user\Desktop\Шаблон MVP\z2MVP\obj\Debug\z2MVP.pdb
