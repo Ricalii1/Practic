@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Практика1\Ввод вывод\z2.1\bin\Debug\z2.1.exe.config
+C:\Users\user\Desktop\Практика1\Ввод вывод\z2.1\bin\Debug\z2.1.exe
+C:\Users\user\Desktop\Практика1\Ввод вывод\z2.1\bin\Debug\z2.1.pdb
+C:\Users\user\Desktop\Практика1\Ввод вывод\z2.1\obj\Debug\z2.1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика1\Ввод вывод\z2.1\obj\Debug\z2.1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика1\Ввод вывод\z2.1\obj\Debug\z2.1.exe
+C:\Users\user\Desktop\Практика1\Ввод вывод\z2.1\obj\Debug\z2.1.pdb
